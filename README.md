@@ -22,4 +22,5 @@ Headers:
                           DEFAULTS TO PSM-RDP IF LEFT BLANK
 
 TO DO:
- - make script flexible to be able to append to a specific group defined by the user. Currently just appends to the group node.
+ - make script flexible to be able to append to a specific group defined by the user. Currently just appends 
+     to the first group node in the list
