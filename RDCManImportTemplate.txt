@@ -1,0 +1,5 @@
+rdcDisplayName,psmServer,cyberarkUsername,targetAccount,targetAddress,connectionComponent
+x_admin on DC1,components.contoso.com,mike,x_admin@contoso.com,dc1.contoso.com,PSM-RDP
+x_admin on Components,components.contoso.com,mike,x_admin@contoso.com,components.contoso.com,PSM-RDP
+HelpDesk on Client001,components.contoso.com,mike,HelpDesk@contoso.com,client001.contoso.com,PSM-RDP
+
